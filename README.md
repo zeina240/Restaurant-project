@@ -1,46 +1,25 @@
-Special Cook Project Management System
-Overview
+## Special Cook Project Management System 
 
-Special Cook is a backend-driven restaurant project management system built with Java using Behavior-Driven Development (BDD) and Test-Driven Development (TDD).
+## Overview 
+Special Cook is a backend-driven restaurant management system built in Java using BDD & TDD. It streamlines custom cooking operations, including order management, inventory tracking, scheduling, billing, and AI-powered recipe recommendations.
 
-The system is designed to streamline custom cooking operations by managing customer preferences, order customization, scheduling, inventory tracking, supplier integration, billing, and AI-powered recipe recommendations.
+## Key Features :
+- Manage customer preferences and order history 
+- Create custom meals with ingredient validation 
+- Intelligent ingredient substitution system 
+- Task scheduling and workload distribution 
+- Real-time inventory monitoring & supplier integration 
+- Automated billing & financial reporting 
+- AI-powered recipe recommendations 
 
-Key Features
+## Technical Highlights :
+- Java backend with layered architecture (Business Logic / Data Access)
+- Behavior-Driven Development (BDD) & Test-Driven Development (TDD)
+- Clean Object-Oriented Design & unit-tested core logic 
+- Scalable and maintainable system 
 
-Customer dietary preference and order history management
-
-Custom meal creation with ingredient validation
-
-Intelligent ingredient substitution system
-
-Task scheduling and workload distribution for kitchen staff
-
-Real-time inventory monitoring and supplier integration
-
-Automated billing and financial reporting
-
-LLM-powered recipe recommendation assistant
-
-Technical Highlights
-
-Java-based backend architecture
-
-BDD & TDD development approach
-
-Layered architecture (Business Logic / Data Access)
-
-Clean Object-Oriented Design principles
-
-Unit testing for core business logic
-
-Scalable and maintainable system structure
-
-Business Impact
-
-Improves operational efficiency
-
-Reduces inventory shortages
-
-Enhances customer personalization
-
-Supports scalable kitchen management
+## Business Impact: 
+- Improves operational efficiency 
+- Reduces inventory shortages 
+- Enhances customer personalization 
+- Supports scalable kitchen management 
